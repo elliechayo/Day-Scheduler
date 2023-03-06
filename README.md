@@ -14,13 +14,7 @@ The app needs to run in the browser and feature dynamically updated HTML and CSS
 You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
 
 
-***Work completed within the html code:***
-* Additional time blocks were added to complete a full standard business hours day.
 
-***Work completed within the JavaScript code:***
-* 
-
-## Acceptance Criteria
 
 ```md
 GIVEN I am using a daily planner to create a schedule
