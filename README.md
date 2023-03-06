@@ -60,9 +60,10 @@ Upload the application files to a webserver.
 ## Preview
 <hr>
 
-The following image shows the web application appearance and functionality once deployed:
+The following video shows the web application appearance and functionality once deployed:
 
 
+![initial disply](/Assets/day_scheduler_app.gif)
 
 
 
