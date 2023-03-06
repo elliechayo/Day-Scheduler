@@ -5,7 +5,7 @@
 
 The objective of the project was to modify a starter code and to create an application that will allow a user to add important events for each hour of the day. The events added will be saved and help the user to manage their time effectively.
 
-The app needs to run in the browser and feature dynamically updated HTML and CSS powered by jQuery and have the following functionalities.
+The app needs to run in the browser and feature dynamically updated HTML and CSS powered by jQuery and have the following functionalities:
 
 When the user opens the daily planner, the current day is displayed at the top of the calendar along with timeblocks for a standard business hours workday.
 
@@ -70,7 +70,7 @@ The following image shows the web application appearance and functionality once 
 ## Links
 <hr>
 
-[URL of the deployed application]( https://elliechayo.github.io/Day-Scheduler/)
+[URL of the deployed application](https://elliechayo.github.io/Day-Scheduler/)
 
 [URL of the GitHub repository](https://github.com/elliechayo/Day-Scheduler)
 
